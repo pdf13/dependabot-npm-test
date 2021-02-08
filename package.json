@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hellojs": "^1.18.0"
+    "hellojs": "^1.18.0",
+    "slashify": "^1.0.0"
   }
 }
