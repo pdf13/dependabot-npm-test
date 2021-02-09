@@ -4,6 +4,27 @@ updates:
   - package-ecosystem: npm
     reviewers:
       - pdf13
-    directory: apps/
+    directory: apps/test-1
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    reviewers:
+      - pdf13
+    directory: apps/test-2
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    reviewers:
+      - pdf13
+    directory: apps/test-3
+    schedule:
+      interval: daily
+
+  - package-ecosystem: npm
+    reviewers:
+      - pdf13
+    directory: apps/test-4
     schedule:
       interval: daily
