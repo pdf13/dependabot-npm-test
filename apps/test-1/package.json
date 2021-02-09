@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bestzip": "^2.1.0"
+    "bestzip": "^2.1.0",
+    "semantic-release": "17.2.1"
   }
 }
